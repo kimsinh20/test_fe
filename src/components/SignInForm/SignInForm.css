@@ -1,0 +1,71 @@
+.signin {
+    width: 1920px;
+    height: 100vh;
+    background-color: #ffffff;
+}
+.signin .logo {
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    margin-left: 240px;
+    margin-top: 62px;
+}
+.signin .logo_cicle {
+    background-color: #9c69e2;
+    width: 19.88px;
+    height: 19.88px;
+    border-radius: 20px;
+}
+.signin .logo_oval {
+    background-color: #f063b8;
+    width: 19.88px;
+    height: 34.78px;
+    border-radius: 20px;
+}
+.signin-title {
+    text-align: center;
+    font-family: Inter;
+    font-size: 64px;
+    font-weight: 400;
+    line-height: 102.4px;
+    letter-spacing: 0.005em;
+    color: #000000;
+}
+.signin-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.signin-form {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
+.signin-label {
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 25.6px;
+    letter-spacing: 0.005em;
+    text-align: left;
+}
+.signin-input {
+    width: 407px;
+    height: 57px;
+    border-radius: 6px 0px 0px 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    border: 1px solid #000000;
+    margin-top: 20px;
+}
+
+.signin-button {
+    width: 413px;
+    height: 53px;
+    border-radius: 50px;
+    background-color:  #9C69E2;
+    color: #ffffff;
+    text-align: center;
+    line-height: 26.5px;
+    margin-top: 30px;
+}

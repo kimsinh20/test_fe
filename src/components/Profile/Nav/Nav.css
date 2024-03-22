@@ -1,0 +1,40 @@
+#logo {
+    display: flex;
+    flex-direction: row;
+    margin: 30px 0px 0px 100px;
+}
+#logo_cicle {
+    background-color: #9c69e2;
+    width: 19.88px;
+    height: 19.88px;
+    border-radius: 20px;
+    margin-top: 26.83px;
+}
+#logo_oval {
+    background-color: #f063b8;
+    width: 19.88px;
+    height: 34.78px;
+    border-radius: 20px;
+    margin-left: 8.94px;
+}
+.nav_link {
+    display: flex;
+    flex-direction: column;
+}
+.nav_link .link {
+    margin-left: 34px;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0.005em;
+    text-align: left;
+    color: #212353;
+    text-decoration: none;
+}
+.nav_link #link_post {
+    margin-top: 40px;
+}
+.nav_link #link_logout {
+    margin-top: 10px;
+}

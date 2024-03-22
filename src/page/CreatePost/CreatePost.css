@@ -1,0 +1,33 @@
+.create {
+    display: flex;
+
+}
+.create .create_form {
+ margin-top: 100px;
+ margin-left: 30px;
+}
+.input_create {
+    width: 400px;
+    height: 40px;
+}
+.btn_them {
+    width: 252.45px;
+    height: 58.53px;
+    border-radius: 50px;
+    color: #ffffff;
+    background-color: #9c69e2;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 58.53px;
+    letter-spacing: 0.005em;
+    text-align: left;
+    box-shadow: 0px 5px 5px 0px #4b5d681a;
+    text-align: center;
+    margin-top: 10px;
+    margin-right: 15px;
+}
+select {
+    width: 400px;
+    height: 100px;
+}

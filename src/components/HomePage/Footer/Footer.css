@@ -1,0 +1,183 @@
+.footer {
+    margin-top: 88.73px;
+}
+.footer .line {
+    width: 1600px;
+    height: 2px;
+    background-color: #9c69e2;
+    opacity: 0.2px;
+    margin: 0px auto;
+}
+.logo {
+    display: flex;
+    flex-direction: row;
+}
+.logo_cicle {
+    background-color: #9c69e2;
+    width: 19.88px;
+    height: 19.88px;
+    border-radius: 20px;
+    margin-top: 14.9px;
+}
+.logo_oval {
+    background-color: #f063b8;
+    width: 19.88px;
+    height: 34.78px;
+    border-radius: 20px;
+    margin-left: 8.94px;
+    margin-top: 0px;
+}
+.footer_nav {
+    margin-left: 400px;
+    width: 1120px;
+    margin-top: 96px;
+    display: flex;
+    justify-content: space-between;
+}
+.footer_info {
+    display: flex;
+    flex-direction: column;
+    width: 335.9px;
+    height: 65.17px;
+}
+.company h2 {
+    margin: 0px;
+    margin-left: 20px;
+}
+.company {
+    width: 153.41px;
+    height: 30.08px;
+    font-family: Avenir;
+    font-size: 20px;
+    font-weight: 900;
+    line-height: 32px;
+    text-align: left;
+    color: #212353;
+    display: flex;
+}
+.footer_info .address {
+    width: 335.9px;
+    height: 65.17px;
+    font-family: Avenir;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28.8px;
+    letter-spacing: 0.01em;
+    text-align: left;
+    color: #212353;
+    margin-top: 66.97px;
+}
+.footer_info span {
+    width: 335.9px;
+    height: 60.16px;
+    font-family: Avenir;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28.8px;
+    letter-spacing: 0.01em;
+    text-align: left;
+    color: #212353;
+}
+.about {
+    width: 166.45px;
+    height: 220.59px;
+}
+.help {
+    width: 166.45px;
+    height: 220.59px;
+}
+.social_media {
+    width: 178.48px;
+}
+.about_title,
+.help_title,
+.social_media_title {
+    font-family: Avenir;
+    font-size: 16px;
+    font-weight: 900;
+    line-height: 25.6px;
+    text-align: left;
+    color: #212353;
+}
+.about_list,
+.help_list {
+    font-family: Avenir;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 40px;
+    text-align: left;
+}
+.social_media_list {
+    display: flex;
+    justify-content: space-between;
+}
+.social_media_item {
+    width: 50.13px;
+    height: 50.13px;
+    top: 2996.89px;
+    left: 1373.61px;
+    gap: 0px;
+    opacity: 0.1;
+    background-color: #212353;
+    border-radius: 50%;
+}
+.footer_bottom {
+    width: 1120px;
+    margin-top: 93.25px;
+    margin-left: 400px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 130.22px;
+}
+.footer_bottom .bottom_left {
+    font-family: Avenir;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 21.6px;
+    letter-spacing: 0.01em;
+    text-align: left;
+}
+.bottom_right .cicle {
+    width: 60.16px;
+    height: 60.16px;
+    top: 3275.64px;
+    left: 1459.84px;
+    gap: 0px;
+    border-radius: 50%;
+    background-color: #9c69e2;
+    background-color: rgba(156, 105, 226, 0.2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.chat {
+    width: 30.08px;
+    height: 29.08px;
+    border-radius: 10px;
+    background-color: #9c69e2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1px;
+    position: relative;
+}
+.chat div {
+    width: 4.01px;
+    height: 4.01px;
+    background-color: #ffffff;
+    border-radius: 50%;
+    opacity: 1;
+}
+.trigle {
+    position: absolute;
+    left: 2px;
+    top: 26px;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0 8px 8px 8px;
+    border-color: transparent transparent #9c69e2 transparent;
+    transform: rotate(180deg);
+    z-index: 20;
+}

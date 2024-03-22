@@ -1,0 +1,54 @@
+.Headline {
+    margin-top: 129.19px;
+}
+.Headline h2 {
+    width: 640.99px;
+    /* height: 182.86px; */
+    font-family: Helvetica;
+    font-size: 80px;
+    font-weight: 700;
+    line-height: 88px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #212353;
+    margin: 0px;
+}
+.Headline p {
+    width: 377.64px;
+    height: 119.25px;
+    font-family: Avenir;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #4b5d68;
+    margin-bottom: 0px;
+    margin-top: 49.69px;
+}
+.Headline .btn_lean_more {
+    width: 168.94px;
+    height: 59.63px;
+    border-radius: 50px;
+    background-color: #9c69e2;
+    color: #ffffff;
+    font-family: Avenir;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-top: 49.69px;
+    border: none;
+}
+.Hero {
+    position: relative;
+}
+.Hero img{
+    width: 759.25px;
+    height: 401.49px;
+    background-size : cover;
+    position: absolute;
+    top: 95.4px;
+    right: 0;
+}
